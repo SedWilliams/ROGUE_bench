@@ -15,4 +15,4 @@ python3 -m src.main
 ```
 
 Demo run:
-[](./demo.png)
+![demo pic](./demo.png)
