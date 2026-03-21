@@ -1,9 +1,9 @@
 # ROGUE Benchmark Demo
 
 ### Usage
+Run the following in the root directory to set up the venv and run the demo.
 ```bash
 
-# run...
 ./init.sh
 
 source venv/bin/activate
